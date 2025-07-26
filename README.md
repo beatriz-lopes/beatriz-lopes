@@ -23,11 +23,12 @@ Se tem algo acontecendo, pode apostar que estou envolvida! Adoro me manter ocupa
 💡 Foco atual: JavaScript | Node.js | Python |
 ```
 
-📌 Também tenho familiaridade com:
+📌 Também trabalho com:
 
-- HTML, CSS, Git & GitHub
-- SQL, MongoDB
-- PHP, Java, C, C++
+- `Front-end:` HTML, CSS
+- `Banco de dados:` SQL, MongoDB
+- `Outras linguagens:` PHP, Java, C, C++
+- `Ferramentas:` Git, GitHub
 
 ---
 
