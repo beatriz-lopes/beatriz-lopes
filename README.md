@@ -11,7 +11,7 @@
 
 > ⚠️ Alerta: Mente inquieta em constante expansão!
 
-Se tem algo acontecendo, pode apostar que estou envolvida! Gosto de ocupar o tempo com projetos, desafios e muito código. Atualmente, estou mergulhado no mundo do desenvolvimento web e explorando tudo o que ele tem a oferecer — de front a back, com muito entusiasmo no caminho.
+Se tem algo acontecendo, pode apostar que estou envolvida! Adoro me manter ocupada com projetos, desafios e tudo que me faça aprender algo novo. Atualmente, estou mergulhado no mundo do desenvolvimento web, de front a back, e explorando tudo o que ele tem a oferecer.
 
 <p align="center"> ✨ Código limpo, curiosidade sem fim e muitas abas abertas. ✨ </p>
 
